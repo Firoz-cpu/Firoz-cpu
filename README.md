@@ -1,0 +1,10 @@
+<person>
+        <name>firoz</name>
+        <age>22</age>
+        <dob>31-12-2002</dob>
+        <address>
+                 <d.no.>1/4/26</d.no.>
+                 <street>ballaribypass</street>
+                 <city>anantapur</city>
+         <address>       
+<person>
